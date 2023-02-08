@@ -16,6 +16,7 @@
 		59EF5C7229927C0C00FE8256 /* DeckWorkOutTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59EF5C7129927C0C00FE8256 /* DeckWorkOutTests.swift */; };
 		59EF5C7C29927C0C00FE8256 /* DeckWorkOutUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59EF5C7B29927C0C00FE8256 /* DeckWorkOutUITests.swift */; };
 		59EF5C7E29927C0C00FE8256 /* DeckWorkOutUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59EF5C7D29927C0C00FE8256 /* DeckWorkOutUITestsLaunchTests.swift */; };
+		59EF5C8F2992936C00FE8256 /* Deck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59EF5C8E2992936C00FE8256 /* Deck.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		59EF5C7729927C0C00FE8256 /* DeckWorkOutUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DeckWorkOutUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		59EF5C7B29927C0C00FE8256 /* DeckWorkOutUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeckWorkOutUITests.swift; sourceTree = "<group>"; };
 		59EF5C7D29927C0C00FE8256 /* DeckWorkOutUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeckWorkOutUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		59EF5C8E2992936C00FE8256 /* Deck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deck.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				59EF5C6329927C0C00FE8256 /* Assets.xcassets */,
 				59EF5C6529927C0C00FE8256 /* LaunchScreen.storyboard */,
 				59EF5C6829927C0C00FE8256 /* Info.plist */,
+				59EF5C8E2992936C00FE8256 /* Deck.swift */,
 			);
 			path = DeckWorkOut;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				59EF5C8F2992936C00FE8256 /* Deck.swift in Sources */,
 				59EF5C5F29927C0900FE8256 /* ViewController.swift in Sources */,
 				59EF5C5B29927C0900FE8256 /* AppDelegate.swift in Sources */,
 				59EF5C5D29927C0900FE8256 /* SceneDelegate.swift in Sources */,
